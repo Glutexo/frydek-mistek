@@ -1,25 +1,25 @@
-# Turisticky pruvodce po Frydku-Mistku
+# Turistický průvodce po Frýdku-Místku
 
-Tento repozitar slouzi jako pracovni zaklad pro tvorbu turistickeho pruvodce po Frydku-Mistku.
+Tento repozitář slouží jako pracovní základ pro tvorbu turistického průvodce po Frýdku-Místku.
 
-## Zamer
+## Záměr
 
-V tomto projektu budeme postupne shromazdovat a tridit poznamky pro budouciho turistickeho pruvodce.
-Cilem je vytvorit prakticky, prehledny a lokalne ukotveny obsah pro navstevniky mesta.
+V tomto projektu budeme postupně shromažďovat a třídit poznámky pro budoucího turistického průvodce.
+Cílem je vytvořit praktický, přehledný a lokálně ukotvený obsah pro návštěvníky města.
 
-## Co sem budeme ukladat
+## Co sem budeme ukládat
 
-- tipy na mista k navstive
-- historicke a kulturni poznamky
-- namety na prochazkove trasy
-- gastronomicke a prakticke tipy
-- koncepty textu pro jednotlive casti pruvodce
+- tipy na místa k návštěvě
+- historické a kulturní poznámky
+- náměty na procházkové trasy
+- gastronomické a praktické tipy
+- koncepty textu pro jednotlivé části průvodce
 
-## Pracovni poznamky
+## Pracovní poznámky
 
-- Projekt zacina jako sada strukturovanych poznamek.
-- Obsah budeme doplnovat postupne po tematech.
-- Po kazde zmene provedeme commit a push.
+- Projekt začíná jako sada strukturovaných poznámek.
+- Obsah budeme doplňovat postupně po tématech.
+- Po každé změně provedeme commit a push.
 
 ## Podklady
 

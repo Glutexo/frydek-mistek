@@ -1,38 +1,38 @@
-# Mista k navsteve
+# Místa k návštěvě
 
-Pracovni poznamky k zajimavym mistum ve Frydku-Mistku.
+Pracovní poznámky k zajímavým místům ve Frýdku-Místku.
 
-## Historicke pamatky
+## Historické památky
 
-- Nazev mista:
-- Proc je zajimave:
-- Co overit:
+- Název místa:
+- Proč je zajímavé:
+- Co ověřit:
 
-## Sakralni a vyznamne stavby
+## Sakrální a významné stavby
 
-- Nazev mista:
-- Proc je zajimave:
-- Co overit:
+- Název místa:
+- Proč je zajímavé:
+- Co ověřit:
 
 ## Muzea a kultura
 
-- Nazev mista:
-- Proc je zajimave:
-- Co overit:
+- Název místa:
+- Proč je zajímavé:
+- Co ověřit:
 
-## Parky a prochazky
+## Parky a procházky
 
-- Nazev mista:
-- Proc je zajimave:
-- Co overit:
+- Název místa:
+- Proč je zajímavé:
+- Co ověřit:
 
-## Vyhledy a fotogenicka mista
+## Výhledy a fotogenická místa
 
-- Nazev mista:
-- Proc je zajimave:
-- Co overit:
+- Název místa:
+- Proč je zajímavé:
+- Co ověřit:
 
-## Poznamky k doplneni
+## Poznámky k doplnění
 
-- Doplnit prvni konkretni seznam mist.
-- Overit, ktera mista jsou nejvhodnejsi pro kratkou navstevu a ktera pro delsi program.
+- Doplnit první konkrétní seznam míst.
+- Ověřit, která místa jsou nejvhodnější pro krátkou návštěvu a která pro delší program.

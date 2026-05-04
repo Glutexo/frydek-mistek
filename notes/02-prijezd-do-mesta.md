@@ -1,27 +1,27 @@
-# Prijezd do mesta
+# Příjezd do města
 
-Pracovni poznamky k tomu, jak navstevnik obvykle prijede do Frydku-Mistku.
+Pracovní poznámky k tomu, jak návštěvník obvykle přijede do Frýdku-Místku.
 
-## Hlavni zpusoby prijezdu
+## Hlavní způsoby příjezdu
 
-- Vlakem na nadrazi Frydek-Mistek.
-- Dalkovym autobusem na autobusove nadrazi, napriklad se spoji RegioJet nebo FlixBus.
-- Regionalnim autobusem ODIS, zejmena linkami 980 a 985.
+- Vlakem na nádraží Frýdek-Místek.
+- Dálkovým autobusem na autobusové nádraží, například se spoji RegioJet nebo FlixBus.
+- Regionálním autobusem ODIS, zejména linkami 980 a 985.
 
-## Dulezite nastupni a vystupni body
+## Důležité nástupní a výstupní body
 
-- Nadrazi Frydek-Mistek jako prirozeny zeleznicni vstup do mesta.
-- Autobusove nadrazi pro dalkove autobusove spoje.
-- Zastavka Mistek, Anenska pro cast prijezdu od Ostravy a z valu smeru Beskyd.
+- Nádraží Frýdek-Místek jako přirozený železniční vstup do města.
+- Autobusové nádraží pro dálkové autobusové spoje.
+- Zastávka Místek, Anenská pro část příjezdů od Ostravy a z valů směru Beskyd.
 
-## Poznamka k smerum prijezdu
+## Poznámka ke směrům příjezdu
 
-- Z Ostravy mohou navstevnici prijet regionalnim autobusem ODIS.
-- Z Frenstatu pod Radhostem mohou navstevnici prijet regionalnim autobusem ODIS.
-- Z Roznova pod Radhostem mohou navstevnici prijet regionalnim autobusem ODIS.
+- Z Ostravy mohou návštěvníci přijet regionálním autobusem ODIS.
+- Z Frenštátu pod Radhoštěm mohou návštěvníci přijet regionálním autobusem ODIS.
+- Z Rožnova pod Radhoštěm mohou návštěvníci přijet regionálním autobusem ODIS.
 
-## Co pozdeji overit a doplnit
+## Co později ověřit a doplnit
 
-- Presne nazvy nastupist a stanovist na autobusovem nadrazi.
-- Ktere dalkove spoje sem jezdi pravidelne a ktere jen sezonne nebo omezenym poctem spoju.
-- Jak dobre na prijezdove body navazuji pesi trasy do centra Frydku a do centra Mistku.
+- Přesné názvy nástupišť a stanovišť na autobusovém nádraží.
+- Které dálkové spoje sem jezdí pravidelně a které jen sezonně nebo omezeným počtem spojů.
+- Jak dobře na příjezdové body navazují pěší trasy do centra Frýdku a do centra Místku.
