@@ -20,3 +20,7 @@ Cilem je vytvorit prakticky, prehledny a lokalne ukotveny obsah pro navstevniky 
 - Projekt zacina jako sada strukturovanych poznamek.
 - Obsah budeme doplnovat postupne po tematech.
 - Po kazde zmene provedeme commit a push.
+
+## Podklady
+
+- Mapa MHD: `assets/fm2025schema_tisk_mensi_2-1.png`
